@@ -14,7 +14,10 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+
     /* 
     Challenge:
     Add colors to the card according to the design.
@@ -23,8 +26,3 @@ body {
     purple - #d8cefe
     */
 }
-
-.border-blue {
-    border: 1px dotted blue;
-}
-    

@@ -16,10 +16,7 @@
     margin-left: auto;
     margin-right: auto;
     line-height: 24px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 10px 30px;
     border: 1px solid #dfe1e5;
     border-radius: 24px;
 }
@@ -28,4 +25,11 @@
 Challenge:
 Center the button and add some space above it
 */
+
+.btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
 

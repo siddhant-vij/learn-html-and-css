@@ -1,11 +1,23 @@
+body {
+    margin: 0;
+}
+
 .red {
     background: #c71226;
     height: 100px;
+
+    /* New row with white color */
+    /* margin-bottom: 100px; */
 }
 
 .blue {
     background: #0d1b88;
     height: 100px;
+
+    /* Flag of The Gambia */
+    /* height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px; */
 }
 
 .green {

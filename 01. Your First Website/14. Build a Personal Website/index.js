@@ -8,10 +8,10 @@ favouriteMovieGenre("regular")
 favouriteFruit("regular")
 
 // light, dark
-favouriteMode("light")
+favouriteMode("dark")
 
 // sharp, soft, round
-favouriteEdgeStyle("sharp")
+favouriteEdgeStyle("round")
 
 
 

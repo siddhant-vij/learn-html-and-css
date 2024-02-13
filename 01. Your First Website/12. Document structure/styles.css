@@ -1,6 +1,7 @@
-body, html {
+body,
+html {
     margin: 0;
-    padding: 0; 
+    padding: 0;
 }
 
 img {
@@ -39,8 +40,8 @@ button:first-of-type {
     margin-left: calc(50% - 131.5px);
 }
 
-button::hover {
-    
+button:hover {
+    cursor: pointer;
 }
 
 p {
@@ -49,5 +50,5 @@ p {
 }
 
 a {
+    text-decoration:underline;
 }
-

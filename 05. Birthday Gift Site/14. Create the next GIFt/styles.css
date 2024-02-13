@@ -5,7 +5,11 @@ body {
     color: #ffffff;
 }
 
-h1, h2, h3, h4, p {
+h1,
+h2,
+h3,
+h4,
+p {
     text-shadow: 0 0 1px black;
 }
 
@@ -58,19 +62,17 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-.gift-img:hover {
+#gift-img-happy:hover {
     background-image: url("images/happy.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("images/hot.gif");
 }
 
 /*
 Challenge:
-Create the next GIFt (hot.gif). Its HTML structure 
-should be like the previous one, but without the 
-"gift-hint" element.
+Create the next Gift (hot.gif). Its HTML structure should be like the previous one, but without the "gift-hint" element.
 
-However, now that you have multiple GIFts on the page,
-you cannot use the "gift-img" class to set the GIF 
-background-image(s) on :hover. Each GIFt will need a 
-unique id that controls which background image that 
-should be shown when hovering over the element.
+However, now that you have multiple Gifts on the page, you cannot use the "gift-img" class to set the GIF background-image(s) on :hover. Each Gift will need a unique id that controls which background image that should be shown when hovering over the element.
 */

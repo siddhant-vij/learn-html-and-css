@@ -7,3 +7,10 @@ div {
     font-size: 30px;
     font-weight: bold;
 }
+
+div:hover {
+    background: #a2d2ff;
+    color: #e5383b;
+    cursor: pointer;
+    font-size: 40px;
+}

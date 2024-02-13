@@ -11,7 +11,11 @@ body {
     color: #ffffff;
 }
 
-h1, h2, h3, h4, p {
+h1,
+h2,
+h3,
+h4,
+p {
     text-shadow: 0 0 1px black;
 }
 
@@ -107,5 +111,5 @@ Link:
 https://scrimba.com/learn/htmlandcss
 
 Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+Want to create your own Birthday Gift site? Take this HTML & CSS course.
 */
